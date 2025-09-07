@@ -3,7 +3,7 @@ const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
 // APIサーバーのベースURL 
-const API_BASE_URL = 'https://brock-break.onrender.com';
+const API_BASE_URL = 'https://brock-break2.onrender.com';
 
 // 2. ゲームの変数定義
 let score = 0; // スコア変数
